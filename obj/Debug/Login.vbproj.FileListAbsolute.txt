@@ -1,0 +1,24 @@
+c:\users\gun\documents\visual studio 2012\Projects\Login\Login\bin\Debug\Login.exe.config
+c:\users\gun\documents\visual studio 2012\Projects\Login\Login\bin\Debug\Login.exe
+c:\users\gun\documents\visual studio 2012\Projects\Login\Login\bin\Debug\Login.pdb
+c:\users\gun\documents\visual studio 2012\Projects\Login\Login\bin\Debug\Login.xml
+c:\users\gun\documents\visual studio 2012\Projects\Login\Login\obj\Debug\Login.Resources.resources
+c:\users\gun\documents\visual studio 2012\Projects\Login\Login\obj\Debug\Login.vbproj.GenerateResource.Cache
+c:\users\gun\documents\visual studio 2012\Projects\Login\Login\obj\Debug\Login.exe
+c:\users\gun\documents\visual studio 2012\Projects\Login\Login\obj\Debug\Login.xml
+c:\users\gun\documents\visual studio 2012\Projects\Login\Login\obj\Debug\Login.pdb
+c:\users\gun\documents\visual studio 2012\Projects\Login\Login\obj\Debug\Login.Login.resources
+D:\Fpt Polytechnic\INF 205\Lab 5\Login\Login\bin\Debug\Login.exe.config
+D:\Fpt Polytechnic\INF 205\Lab 5\Login\Login\obj\Debug\Login.exe
+D:\Fpt Polytechnic\INF 205\Lab 5\Login\Login\obj\Debug\Login.xml
+D:\Fpt Polytechnic\INF 205\Lab 5\Login\Login\obj\Debug\Login.pdb
+D:\Fpt Polytechnic\INF 205\Lab 5\Login\Login\bin\Debug\Login.exe
+D:\Fpt Polytechnic\INF 205\Lab 5\Login\Login\bin\Debug\Login.pdb
+D:\Fpt Polytechnic\INF 205\Lab 5\Login\Login\bin\Debug\Login.xml
+D:\Fpt Polytechnic\INF 205\Lab 5\Login\Login\obj\Debug\Login.Login.resources
+D:\Fpt Polytechnic\INF 205\Lab 5\Login\Login\obj\Debug\Login.Resources.resources
+D:\Fpt Polytechnic\INF 205\Lab 5\Login\Login\obj\Debug\Login.vbproj.GenerateResource.Cache
+D:\Fpt Polytechnic\INF 205\Assignment\Form\Login\Login\bin\Debug\Login.exe.config
+D:\Fpt Polytechnic\INF 205\Assignment\Form\Login\Login\obj\Debug\Login.exe
+D:\Fpt Polytechnic\INF 205\Assignment\Form\Login\Login\obj\Debug\Login.xml
+D:\Fpt Polytechnic\INF 205\Assignment\Form\Login\Login\obj\Debug\Login.pdb

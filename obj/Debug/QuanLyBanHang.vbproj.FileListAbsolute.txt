@@ -1,0 +1,43 @@
+D:\Fpt Polytechnic\INF 205\Assignment\Form\Login\Login\bin\Debug\Login.exe.config
+D:\Fpt Polytechnic\INF 205\Assignment\Form\Login\Login\bin\Debug\Login.exe
+D:\Fpt Polytechnic\INF 205\Assignment\Form\Login\Login\bin\Debug\Login.pdb
+D:\Fpt Polytechnic\INF 205\Assignment\Form\Login\Login\bin\Debug\Login.xml
+D:\Fpt Polytechnic\INF 205\Assignment\Form\Login\Login\obj\Debug\Login.Login.resources
+D:\Fpt Polytechnic\INF 205\Assignment\Form\Login\Login\obj\Debug\Login.Resources.resources
+D:\Fpt Polytechnic\INF 205\Assignment\Form\Login\Login\obj\Debug\QuanLyBanHang.vbproj.GenerateResource.Cache
+D:\Fpt Polytechnic\INF 205\Assignment\Form\Login\Login\obj\Debug\Login.exe
+D:\Fpt Polytechnic\INF 205\Assignment\Form\Login\Login\obj\Debug\Login.xml
+D:\Fpt Polytechnic\INF 205\Assignment\Form\Login\Login\obj\Debug\Login.pdb
+D:\Fpt Polytechnic\INF 205\Assignment\Form\Login\Login\obj\Debug\Login.Manager.resources
+D:\Fpt Polytechnic\INF 205\Assignment\Form\Login\Login\obj\Debug\Login.QuanLyNhanVien.resources
+D:\Fpt Polytechnic\INF 205\Assignment\Form\Login\Login\obj\Debug\Login.QuanLySanPham.resources
+D:\Form\Login\Login\bin\Debug\Login.exe.config
+D:\Form\Login\Login\obj\Debug\Login.exe
+D:\Form\Login\Login\obj\Debug\Login.xml
+D:\Form\Login\Login\obj\Debug\Login.pdb
+D:\Form\Login\Login\bin\Debug\Login.exe
+D:\Form\Login\Login\obj\Debug\Login.Login.resources
+D:\Form\Login\Login\obj\Debug\Login.Manager.resources
+D:\Form\Login\Login\obj\Debug\Login.Resources.resources
+D:\Form\Login\Login\obj\Debug\Login.QuanLyNhanVien.resources
+D:\Form\Login\Login\obj\Debug\Login.QuanLySanPham.resources
+D:\Form\Login\Login\obj\Debug\QuanLyBanHang.vbproj.GenerateResource.Cache
+D:\Form\Login\Login\bin\Debug\Login.pdb
+D:\Form\Login\Login\bin\Debug\Login.xml
+D:\Fpt Polytechnic\INF 205\Assignment\tientdps02235_INF205_ASMGD2\Form\Login\Login\bin\Debug\Login.exe.config
+D:\Fpt Polytechnic\INF 205\Assignment\tientdps02235_INF205_ASMGD2\Form\Login\Login\obj\Debug\Login.exe
+D:\Fpt Polytechnic\INF 205\Assignment\tientdps02235_INF205_ASMGD2\Form\Login\Login\obj\Debug\Login.xml
+D:\Fpt Polytechnic\INF 205\Assignment\tientdps02235_INF205_ASMGD2\Form\Login\Login\obj\Debug\Login.pdb
+D:\Fpt Polytechnic\INF 205\Assignment\tientdps02235_INF205_ASMGD2\Form\Quan Ly Ban Hang\Login\bin\Debug\Login.exe.config
+D:\Fpt Polytechnic\INF 205\Assignment\tientdps02235_INF205_ASMGD2\Form\Quan Ly Ban Hang\Login\obj\Debug\Login.exe
+D:\Fpt Polytechnic\INF 205\Assignment\tientdps02235_INF205_ASMGD2\Form\Quan Ly Ban Hang\Login\obj\Debug\Login.xml
+D:\Fpt Polytechnic\INF 205\Assignment\tientdps02235_INF205_ASMGD2\Form\Quan Ly Ban Hang\Login\obj\Debug\Login.pdb
+D:\Fpt Polytechnic\INF 205\Assignment\tientdps02235_INF205_ASMGD2\Form\Quan Ly Ban Hang\Login\bin\Debug\Login.exe
+D:\Fpt Polytechnic\INF 205\Assignment\tientdps02235_INF205_ASMGD2\Form\Quan Ly Ban Hang\Login\bin\Debug\Login.pdb
+D:\Fpt Polytechnic\INF 205\Assignment\tientdps02235_INF205_ASMGD2\Form\Quan Ly Ban Hang\Login\bin\Debug\Login.xml
+D:\Fpt Polytechnic\INF 205\Assignment\tientdps02235_INF205_ASMGD2\Form\Quan Ly Ban Hang\Login\obj\Debug\Login.Login.resources
+D:\Fpt Polytechnic\INF 205\Assignment\tientdps02235_INF205_ASMGD2\Form\Quan Ly Ban Hang\Login\obj\Debug\Login.Manager.resources
+D:\Fpt Polytechnic\INF 205\Assignment\tientdps02235_INF205_ASMGD2\Form\Quan Ly Ban Hang\Login\obj\Debug\Login.Resources.resources
+D:\Fpt Polytechnic\INF 205\Assignment\tientdps02235_INF205_ASMGD2\Form\Quan Ly Ban Hang\Login\obj\Debug\Login.QuanLyNhanVien.resources
+D:\Fpt Polytechnic\INF 205\Assignment\tientdps02235_INF205_ASMGD2\Form\Quan Ly Ban Hang\Login\obj\Debug\Login.QuanLySanPham.resources
+D:\Fpt Polytechnic\INF 205\Assignment\tientdps02235_INF205_ASMGD2\Form\Quan Ly Ban Hang\Login\obj\Debug\QuanLyBanHang.vbproj.GenerateResource.Cache
